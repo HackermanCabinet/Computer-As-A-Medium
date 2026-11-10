@@ -2,7 +2,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class mmanaInputHandler : MonoBehaviour
+public class manaInputHandler : MonoBehaviour
 {
 
     public int mana = 100;
